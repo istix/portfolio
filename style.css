@@ -18,7 +18,7 @@ h1{
     padding-left: 2%;
 }
 .half img{
-    width: 100%;
+    width: 100%; 
 }
 .top{
     background-image: url(images/header-bg.png);
@@ -41,4 +41,42 @@ section{
 }
 p{
     color: dimgray;
+}
+.mid{
+    background-image: url(images/BG_MID.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.exp{
+    margin-left: 5%;
+}
+.single-ex{
+    box-shadow: 10px 10px;
+}
+.single-ex{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.ex{
+    background-image: url(images/bglast.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#slice{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+    
+}
+#eve{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 30px;
 }
