@@ -67,7 +67,7 @@ p{
 }
 #slice{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image: linear-gradient(180deg, lightsalmon,blue);
     border-image-slice: 1;
     
 }
