@@ -56,11 +56,11 @@ p{
 .single-ex{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
-    background-color: white;
+    
     
 }
 .ex{
-    background-image: url(images/bglast.png);
+    background-image: url(images/shah.png);
     background-repeat: no-repeat;
     background-position: left;
 
